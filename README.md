@@ -10,5 +10,3 @@ Problem: Philadelphia is ranked as one of the cities that has the highest crime 
 
 
 Our mobile application is solely developed on android studio. Firebase data service is used for storing user information and crime locations on database. 
-
-https://cloud.githubusercontent.com/assets/12979345/14687977/1fb38e24-070e-11e6-8ba6-697c3b9b38cd.png
