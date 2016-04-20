@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "data-visitor-124622",
+    "project_number": "613679492628",
+    "name": "PhillySafeMap"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613679492628:android:96e30132e31b424b",
+        "client_id": "android:com.example.ryan.phillysafemap",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.ryan.phillysafemap",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613679492628-5sem1e5222s4af01l5bo4esdjj5rr3va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryan.phillysafemap",
+            "certificate_hash": "029F359A8CAC418094A0844400BFBFF71E6AD297"
+          }
+        },
+        {
+          "client_id": "613679492628-di0sps68eedk5u1iije7h7noq9jt0poe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

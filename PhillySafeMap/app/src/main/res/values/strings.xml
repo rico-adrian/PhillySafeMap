@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhillySafeMap</string>
+    <string name="title_activity_maps">Philly Safe Map</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_label">Location:</string>
+    <string name="title_sort_activity">Settings</string>
+    <string name="title_activity_distance">distanceActivity</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="phone">Emergency Contact</string>
+    <string name="source">Source</string>
+</resources>
