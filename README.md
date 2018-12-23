@@ -9,7 +9,7 @@ Problem: Philadelphia is ranked as one of the cities that has the highest crime 
 - Filter your search for specific crime types such as burglary or assault
 
 
-Our mobile application is solely developed on android studio. Firebase data service is used for storing user information and crime locations on database. 
+Our mobile application is solely developed on android studio. Firebase data service is used for storing user information and crime locations on database
 
 <img width="672" alt="screen shot 2016-04-20 at 3 24 14 pm" src="https://cloud.githubusercontent.com/assets/12979345/14689251/8bc6b496-0714-11e6-84d7-77685c05fa77.png">
 <img width="674" alt="screen shot 2016-04-20 at 3 25 31 pm" src="https://cloud.githubusercontent.com/assets/12979345/14689265/9c3bc708-0714-11e6-90ea-60acf3bb4e72.png">
